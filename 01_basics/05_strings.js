@@ -22,3 +22,6 @@ console.log(newString)
 const newString1= gameName.slice(-5, 4);
 console.log(newString1)
  
+const newString2 = " shreya  "
+console.log(newString2)
+console.log(newString2.trim())
